@@ -1,0 +1,11 @@
+D:\Project\Visual Studio 2015\PassingTheTest\PassingTheTest\bin\Debug\PassingTheTest.exe.config
+F:\P21017_Kirill\Project\PassingTheTest\PassingTheTest\bin\Debug\PassingTheTest.exe.config
+F:\P21017_Kirill\Project\PassingTheTest\PassingTheTest\bin\Debug\PassingTheTest.exe
+F:\P21017_Kirill\Project\PassingTheTest\PassingTheTest\bin\Debug\PassingTheTest.pdb
+F:\P21017_Kirill\Project\PassingTheTest\PassingTheTest\obj\Debug\PassingTheTest.csprojResolveAssemblyReference.cache
+F:\P21017_Kirill\Project\PassingTheTest\PassingTheTest\obj\Debug\PassingTheTest.Properties.Resources.resources
+F:\P21017_Kirill\Project\PassingTheTest\PassingTheTest\obj\Debug\PassingTheTest.csproj.GenerateResource.Cache
+F:\P21017_Kirill\Project\PassingTheTest\PassingTheTest\obj\Debug\PassingTheTest.csproj.CoreCompileInputs.cache
+F:\P21017_Kirill\Project\PassingTheTest\PassingTheTest\obj\Debug\PassingTheTest.exe
+F:\P21017_Kirill\Project\PassingTheTest\PassingTheTest\obj\Debug\PassingTheTest.pdb
+F:\P21017_Kirill\Project\PassingTheTest\PassingTheTest\obj\Debug\PassingTheTest.Test.resources
